@@ -1,0 +1,7 @@
+/venv/
+/build/
+/embeddings/
+/phone/
+vs_BuildTools.exe
+gui_script.exe
+

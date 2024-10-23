@@ -18,7 +18,7 @@ Make sure the Build Tools for Visual Studio are installed on your PC. If not, yo
 To get started, clone the repository from GitHub using the following command:
 
 ```bash
-git clone https://github.com/liu-arthur/evoyze-fp-att-gui.git
+git clone https://github.com/liu-arthur/evoyze-fp-att-gui-admin.git
 ```
 
 ## Steps to Set Up the Project
